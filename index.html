@@ -1,18 +1,27 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alex Karpov - Enterprise-Grade Technical Partner</title>
+    <meta name="description" content="Senior Software Engineer specializing in Ruby on Rails and React solutions. Trusted by industry leaders like Samsung and Instacart." />
+    <meta name="keywords" content="Ruby on Rails, React, Software Engineer, Full Stack Developer, Vancouver" />
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://portfoliorepublic.com/" />
+    <meta property="og:title" content="Alex Karpov - Enterprise-Grade Technical Partner" />
+    <meta property="og:description" content="Senior Software Engineer specializing in Ruby on Rails and React solutions. Trusted by industry leaders like Samsung and Instacart." />
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://portfoliorepublic.com/" />
+    <meta property="twitter:title" content="Alex Karpov - Enterprise-Grade Technical Partner" />
+    <meta property="twitter:description" content="Senior Software Engineer specializing in Ruby on Rails and React solutions. Trusted by industry leaders like Samsung and Instacart." />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

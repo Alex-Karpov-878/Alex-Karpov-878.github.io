@@ -1,0 +1,73 @@
+{
+  "company": {
+    "name": "Alex Karpov",
+    "tagline": "Enterprise-Grade Technical Partner",
+    "description": "I deliver enterprise-grade Ruby on Rails and React solutions, proven at global leaders like Samsung and Instacart.",
+    "location": "Vancouver, BC, Canada",
+    "website": "https://portfoliorepublic.com",
+    "linkedin": "https://www.linkedin.com/in/alex1k/"
+  },
+  "hero": {
+    "title": "Stop Hiring Freelancers. Start Hiring a Technical Partner.",
+    "subtitle": "I deliver enterprise-grade Ruby on Rails and React solutions, proven at global leaders like Samsung and Instacart. Let's solve your complex business problems.",
+    "primaryCTA": "Book a 15-min Strategy Call",
+    "secondaryCTA": "View My Portfolio"
+  },
+  "clients": [
+    {
+      "name": "Samsung",
+      "logo": "Samsung"
+    },
+    {
+      "name": "Instacart",
+      "logo": "Instacart"
+    },
+    {
+      "name": "RBC Ventures",
+      "logo": "RBC Ventures"
+    },
+    {
+      "name": "Nanameue",
+      "logo": "Nanameue"
+    }
+  ],
+  "valuePropositions": [
+    {
+      "icon": "ai",
+      "title": "AI-Enhanced Tools",
+      "description": "At Instacart, I designed and built GPT-4-powered tooling that automated API validation, cutting partner onboarding time from weeks to days."
+    },
+    {
+      "icon": "integration",
+      "title": "Expert Integrations",
+      "description": "I architected an enterprise Okta SSO integration for Dr. Bill (RBC Ventures), securely migrating 15,000+ healthcare professionals with zero downtime."
+    },
+    {
+      "icon": "performance",
+      "title": "Performance Optimization",
+      "description": "I led a Sidekiq upgrade for a fintech platform, optimizing asynchronous job processing and reducing average job completion time by 30%."
+    }
+  ],
+  "leadMagnet": {
+    "title": "Get The Playbook",
+    "subtitle": "Download My Free Guide: \"The AI-Automation Playbook: How I Cut Partner Onboarding from Weeks to Days at Instacart\"",
+    "description": "Learn the framework I used to leverage GPT-4 for API validation and code generation. Enter your email to get the free PDF.",
+    "formPlaceholder": "Your Email Address",
+    "buttonText": "Download Now"
+  },
+  "testimonials": [
+    {
+      "id": "colleague-1",
+      "name": "Senior Engineering Manager",
+      "position": "Former Colleague",
+      "initials": "SM",
+      "quote": "Alex's mentoring and rigorous code reviews were pivotal in elevating our team's code quality and streamlining our development process. He's a true technical partner.",
+      "rating": 5
+    }
+  ],
+  "finalCTA": {
+    "title": "Ready to build your next-generation application?",
+    "subtitle": "Let's discuss your project. I am available for project-based work, monthly retainers, and strategic audits.",
+    "buttonText": "Book a 15-min Strategy Call"
+  }
+}

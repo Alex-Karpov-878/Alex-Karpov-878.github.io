@@ -1,0 +1,114 @@
+{
+  "careers": {
+    "title": "Join Our Team",
+    "subtitle": "Be part of a dynamic team that's building innovative software solutions with Ruby on Rails and React. We're looking for talented developers who share our passion for excellence.",
+    "benefits": [
+      {
+        "icon": "book",
+        "title": "Learning & Growth",
+        "description": "Continuous learning opportunities with access to conferences, courses, and the latest technologies."
+      },
+      {
+        "icon": "users",
+        "title": "Collaborative Culture",
+        "description": "Work in a supportive, collaborative environment where your ideas are valued and encouraged."
+      },
+      {
+        "icon": "briefcase",
+        "title": "Flexible Work",
+        "description": "Flexible working hours and remote work options to maintain a healthy work-life balance."
+      },
+      {
+        "icon": "dollar",
+        "title": "Competitive Benefits",
+        "description": "Comprehensive health insurance, retirement plans, and competitive salary packages."
+      },
+      {
+        "icon": "lightbulb",
+        "title": "Cutting-Edge Projects",
+        "description": "Work on exciting projects with industry leaders like Samsung and Instacart."
+      },
+      {
+        "icon": "lightning",
+        "title": "Fast-Paced Environment",
+        "description": "Be part of a dynamic, fast-paced environment where innovation and creativity thrive."
+      }
+    ],
+    "positions": [
+      {
+        "id": "senior-rails-developer",
+        "title": "Senior Ruby on Rails Developer",
+        "location": "San Francisco, CA (Remote OK)",
+        "type": "Full-time",
+        "status": "Open",
+        "description": "We're looking for an experienced Ruby on Rails developer to join our team and work on exciting projects with industry leaders. You'll be responsible for building scalable backend solutions and mentoring junior developers.",
+        "requirements": [
+          "5+ years of Ruby on Rails development experience",
+          "Strong knowledge of PostgreSQL and database optimization",
+          "Experience with API development and integration",
+          "Familiarity with AWS and cloud deployment",
+          "Excellent communication and collaboration skills"
+        ],
+        "technologies": ["Ruby on Rails", "PostgreSQL", "AWS", "API Development"]
+      },
+      {
+        "id": "react-developer",
+        "title": "React Frontend Developer",
+        "location": "San Francisco, CA (Remote OK)",
+        "type": "Full-time",
+        "status": "Open",
+        "description": "Join our frontend team to build beautiful, responsive user interfaces using React. You'll work closely with our design team to create exceptional user experiences for our clients.",
+        "requirements": [
+          "3+ years of React development experience",
+          "Proficiency in modern JavaScript (ES6+)",
+          "Experience with state management (Redux, Context API)",
+          "Knowledge of CSS frameworks (Tailwind, Bootstrap)",
+          "Understanding of responsive design principles"
+        ],
+        "technologies": ["React", "JavaScript", "CSS", "UI/UX"]
+      },
+      {
+        "id": "fullstack-developer",
+        "title": "Full-Stack Developer",
+        "location": "San Francisco, CA (Remote OK)",
+        "type": "Full-time",
+        "status": "Open",
+        "description": "Perfect opportunity for developers who enjoy working across the entire stack. You'll build complete applications using Ruby on Rails and React, from database design to user interface implementation.",
+        "requirements": [
+          "4+ years of full-stack development experience",
+          "Strong knowledge of Ruby on Rails and React",
+          "Experience with database design and optimization",
+          "Understanding of RESTful API principles",
+          "Ability to work independently and in teams"
+        ],
+        "technologies": ["Ruby on Rails", "React", "PostgreSQL", "Full-Stack"]
+      }
+    ],
+    "process": {
+      "title": "Application Process",
+      "subtitle": "Our streamlined hiring process ensures we find the right fit for both you and our team",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Apply Online",
+          "description": "Submit your application with your resume and portfolio through our online form."
+        },
+        {
+          "number": 2,
+          "title": "Initial Review",
+          "description": "Our team reviews your application and portfolio to assess your fit for the role."
+        },
+        {
+          "number": 3,
+          "title": "Technical Interview",
+          "description": "Participate in a technical interview to discuss your experience and problem-solving approach."
+        },
+        {
+          "number": 4,
+          "title": "Team Interview",
+          "description": "Meet with the team to discuss culture fit and answer any questions you may have."
+        }
+      ]
+    }
+  }
+}

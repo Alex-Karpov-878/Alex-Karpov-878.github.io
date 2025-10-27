@@ -1,0 +1,75 @@
+{
+  "contact": {
+    "hero": {
+      "title": "Let's Build Something Great Together",
+      "subtitle": "I am currently accepting new clients for project-based work and monthly retainers. The fastest way to get started is to book a 15-minute Strategy Call on my calendar."
+    },
+    "booking": {
+      "title": "Book Your 15-Minute Strategy Call",
+      "description": "Schedule a quick call to discuss your project and see if we're a good fit.",
+      "calendlyUrl": "https://calendly.com/alexkarpov878/30min"
+    },
+    "form": {
+      "title": "Or, Send Me Your Project Details",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Name",
+          "type": "text",
+          "required": true,
+          "placeholder": "Your full name"
+        },
+        {
+          "name": "email",
+          "label": "Email",
+          "type": "email",
+          "required": true,
+          "placeholder": "your@email.com"
+        },
+        {
+          "name": "projectType",
+          "label": "Project Type",
+          "type": "select",
+          "required": true,
+          "options": [
+            { "value": "", "label": "Select project type" },
+            { "value": "project-based", "label": "Project-Based" },
+            { "value": "monthly-retainer", "label": "Monthly Retainer" },
+            { "value": "strategic-audit", "label": "Strategic Audit" },
+            { "value": "other", "label": "Other" }
+          ]
+        },
+        {
+          "name": "message",
+          "label": "Tell me about your project & goals",
+          "type": "textarea",
+          "required": true,
+          "placeholder": "Describe your project, goals, timeline, and any specific requirements...",
+          "rows": 6
+        }
+      ],
+      "submitText": "Send Inquiry",
+      "submittingText": "Sending..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "details": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "AlexKarpov878@gmail.com"
+        },
+        {
+          "type": "linkedin",
+          "label": "LinkedIn",
+          "value": "linkedin.com/in/alex1k/",
+          "url": "https://www.linkedin.com/in/alex1k/"
+        }
+      ]
+    },
+    "responseTime": {
+      "description": "I typically respond to all inquiries within 24 hours during business days.",
+      "guarantee": "24-hour response guarantee"
+    }
+  }
+}

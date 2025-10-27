@@ -1,0 +1,74 @@
+{
+  "blog": {
+    "hero": {
+      "title": "My Insights on Engineering & Growth",
+      "subtitle": "I believe in sharing knowledge. Here are my analyses, tutorials, and deep dives on the technologies I use every day."
+    },
+    "featuredPost": {
+      "title": "How I Used GPT-4 for API Automation at Instacart",
+      "description": "A breakdown of the framework used to build GPT-4-powered tooling that cut partner onboarding from weeks to days.",
+      "date": "December 15, 2024",
+      "author": {
+        "name": "Alex Karpov",
+        "initials": "AK"
+      },
+      "category": "AI & Automation"
+    },
+    "posts": [
+      {
+        "id": "gpt4-automation",
+        "title": "How I Used GPT-4 for API Automation at Instacart",
+        "description": "A breakdown of the framework used to build GPT-4-powered tooling that cut partner onboarding from weeks to days.",
+        "date": "December 15, 2024",
+        "author": {
+          "name": "Alex Karpov",
+          "initials": "AK"
+        },
+        "category": "AI & Automation",
+        "color": "green"
+      },
+      {
+        "id": "zero-downtime-playbook",
+        "title": "The Zero-Downtime Playbook: Migrating 15,000+ Users to Okta",
+        "description": "The strategic and technical steps for executing a seamless, HIPAA-compliant SSO migration for an active SaaS platform.",
+        "date": "December 10, 2024",
+        "author": {
+          "name": "Alex Karpov",
+          "initials": "AK"
+        },
+        "category": "Architecture & Case Study",
+        "color": "purple"
+      },
+      {
+        "id": "sidekiq-migration",
+        "title": "Scaling Rails with Sidekiq: A v5 to v7 Migration Guide",
+        "description": "Lessons from a fintech optimization project that reduced average job completion times by 30%. Here's what to look out for.",
+        "date": "December 5, 2024",
+        "author": {
+          "name": "Alex Karpov",
+          "initials": "AK"
+        },
+        "category": "Technical Tutorial",
+        "color": "blue"
+      },
+      {
+        "id": "revenue-driver-ownership",
+        "title": "Beyond the Code: Owning a Core Revenue Driver at Samsung",
+        "description": "A reflection on the non-technical skills required to own a mission-critical workflow, from runbooks that cut issues by 60% to...",
+        "date": "November 28, 2024",
+        "author": {
+          "name": "Alex Karpov",
+          "initials": "AK"
+        },
+        "category": "Career & Leadership",
+        "color": "orange"
+      }
+    ],
+    "newsletter": {
+      "title": "Get Exclusive Tech Insights",
+      "subtitle": "Subscribe to my newsletter for actionable tips on Rails, React, and scaling enterprise apps. No spam, just value.",
+      "formPlaceholder": "Enter Your Email",
+      "buttonText": "Subscribe"
+    }
+  }
+}

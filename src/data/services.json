@@ -1,0 +1,97 @@
+{
+  "services": {
+    "hero": {
+      "title": "My Engagement Models",
+      "subtitle": "I offer project-based solutions and monthly retainers, not just hourly rates. This aligns my success with your outcomes."
+    },
+    "engagementModels": [
+      {
+        "id": "project-based",
+        "title": "Project-Based Solutions",
+        "description": "Well-defined, high-impact projects (e.g., Okta SSO integration, new API build, legacy service migration).",
+        "benefits": [
+          "Fixed, transparent proposal for the entire project",
+          "From discovery to deployment",
+          "No hidden fees"
+        ],
+        "bestFor": "Well-defined, high-impact projects"
+      },
+      {
+        "id": "monthly-retainer",
+        "title": "Monthly Retainer (Technical Partner)",
+        "description": "Ongoing development, team augmentation, and strategic leadership.",
+        "benefits": [
+          "Dedicated block of my time each month",
+          "Consistent velocity and mentorship",
+          "On-call partnership to help you scale"
+        ],
+        "bestFor": "Ongoing development, team augmentation, and strategic leadership"
+      },
+      {
+        "id": "strategic-audit",
+        "title": "Strategic Audit (Paid Offering)",
+        "description": "Teams who know they have a problem (e.g., performance, tech debt) but aren't sure where to start.",
+        "benefits": [
+          "Comprehensive review of your codebase",
+          "Detailed, actionable \"Rails Performance & Integration Roadmap\"",
+          "Clear improvement strategy"
+        ],
+        "bestFor": "Teams who know they have a problem but aren't sure where to start"
+      }
+    ],
+    "coreServices": {
+      "title": "My Areas of Expertise",
+      "services": [
+        {
+          "title": "Core Development",
+          "description": "Full-stack feature development using Ruby on Rails, React, and TypeScript."
+        },
+        {
+          "title": "Integrations & Migrations",
+          "description": "Architecting complex third-party API integrations (Okta, Salesforce) and leading legacy system upgrades (e.g., Ruby 2.7 to 3)."
+        },
+        {
+          "title": "Optimization & DevOps",
+          "description": "Performance tuning (Sidekiq, database queries), CI/CD pipelines, and implementing robust monitoring with Datadog/Prometheus."
+        },
+        {
+          "title": "AI & Automation",
+          "description": "Integrating LLMs (GPT-4) to build internal tools, automate workflows, and drive developer efficiency."
+        },
+        {
+          "title": "Consulting & Mentoring",
+          "description": "Acting as a senior technical leader to mentor your team, lead code reviews, and help standardize your hiring process."
+        }
+      ]
+    },
+    "process": {
+      "title": "My Approach",
+      "steps": [
+        {
+          "title": "Discovery & Propose",
+          "description": "We deeply analyze the business problem, and I author a technical proposal or architecture plan."
+        },
+        {
+          "title": "Develop",
+          "description": "I build the solution using agile, test-driven methodologies (TDD/BDD)."
+        },
+        {
+          "title": "Test & QA",
+          "description": "I ensure robust test coverage to maintain 99.9%+ uptime."
+        },
+        {
+          "title": "Deploy & Monitor",
+          "description": "I manage deployment (CI/CD, Kubernetes) and watch the results (Datadog)."
+        },
+        {
+          "title": "Support & Iterate",
+          "description": "I remain your partner for future improvements."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Let's architect your solution.",
+      "buttonText": "Get a Personalized Proposal"
+    }
+  }
+}

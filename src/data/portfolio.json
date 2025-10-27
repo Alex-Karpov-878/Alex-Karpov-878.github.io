@@ -1,0 +1,110 @@
+{
+  "portfolio": {
+    "hero": {
+      "title": "Real-World Impact at Scale",
+      "subtitle": "I solve complex problems. Here's a detailed look at my contributions to enterprise platforms."
+    },
+    "caseStudies": [
+      {
+        "id": "instacart",
+        "client": "Instacart",
+        "project": "AI-Powered Integration Automation",
+        "type": "AI & Automation",
+        "category": "Enterprise",
+        "color": "green",
+        "problem": "Onboarding new third-party loyalty program partners was a slow, manual engineering process that took weeks, delaying revenue and straining resources.",
+        "solution": "I architected and built a new GPT-4-powered integration tool. This system automated the validation of partner APIs and generated the necessary integration code, creating a self-service partner experience.",
+        "results": [
+          {
+            "metric": "Weeks → Days",
+            "label": "Partner Onboarding Time",
+            "color": "green"
+          },
+          {
+            "metric": "99.9%",
+            "label": "Uptime Maintained",
+            "color": "blue"
+          }
+        ],
+        "technologies": ["Ruby on Rails", "React", "gRPC", "GPT-4", "PostgreSQL", "DataDog"],
+        "description": "Built GPT-4-powered tooling that automated API validation, cutting partner onboarding time from weeks to days while maintaining 99.9% uptime."
+      },
+      {
+        "id": "samsung",
+        "client": "Samsung",
+        "project": "Core Ad Platform Modernization",
+        "type": "Platform Modernization",
+        "category": "Enterprise",
+        "color": "blue",
+        "problem": "The primary revenue-driving ad campaign workflow was built on legacy code, causing user friction and high support ticket volume. Multiple services were also stuck on an aging version of Ruby.",
+        "solution": "I took ownership of the backend campaign workflows, redesigning the flows and enhancing the RESTful APIs to boost usability. I also led the complex upgrade from Ruby 2.7 to 3 across multiple services and created comprehensive runbooks.",
+        "results": [
+          {
+            "metric": "60%",
+            "label": "Reduction in Production Issues",
+            "color": "green"
+          },
+          {
+            "metric": "99.95%",
+            "label": "Uptime During On-call",
+            "color": "blue"
+          }
+        ],
+        "technologies": ["Ruby on Rails", "RSpec", "GraphQL", "PostgreSQL", "Go", "Kubernetes", "Prometheus", "DataDog"],
+        "description": "Redesigned core revenue-driving campaign workflows, boosting user adoption and reducing support tickets while maintaining 99.95% uptime."
+      },
+      {
+        "id": "dr-bill",
+        "client": "Dr. Bill (RBC Ventures)",
+        "project": "Zero-Downtime Okta SSO Migration",
+        "type": "Security & Migration",
+        "category": "Healthcare",
+        "color": "purple",
+        "problem": "A medical billing SaaS platform needed to migrate its entire user base to an enterprise-grade Okta SSO solution. The migration involved over 15,000 users and had to be seamless and HIPAA/PHIPA compliant.",
+        "solution": "I architected and implemented the entire Okta SSO integration from end to end. This involved a secure, phased migration strategy, high test coverage, and building new Datadog dashboards to monitor the rollout in real-time.",
+        "results": [
+          {
+            "metric": "15,000+",
+            "label": "Users Migrated",
+            "color": "green"
+          },
+          {
+            "metric": "0",
+            "label": "Downtime",
+            "color": "blue"
+          }
+        ],
+        "technologies": ["Ruby on Rails", "React", "Rust", "PostgreSQL", "Okta SSO", "DataDog", "HIPAA/PHIPA Compliance"],
+        "description": "Securely migrated 15,000+ healthcare professionals to Okta SSO with zero downtime and HIPAA/PHIPA compliance."
+      },
+      {
+        "id": "nanameue",
+        "client": "Nanameue, Inc.",
+        "project": "Fintech API & Growth Features",
+        "type": "API Development",
+        "category": "Fintech",
+        "color": "orange",
+        "problem": "A new Web 3.0 financial platform needed to build scalable REST APIs for secure crypto transactions and develop new features to drive user growth.",
+        "solution": "I designed and implemented the core REST APIs. I also built a new referral system using React and Rails and separately optimized their job processing by upgrading Sidekiq from v5 to v7.",
+        "results": [
+          {
+            "metric": "25%",
+            "label": "Increase in User Acquisition",
+            "color": "green"
+          },
+          {
+            "metric": "30%",
+            "label": "Reduction in Job Completion Time",
+            "color": "blue"
+          }
+        ],
+        "technologies": ["Ruby on Rails 7", "React", "PostgreSQL", "REST", "OAuth 2.0", "Snowflake", "Redis", "AWS"],
+        "description": "Built scalable REST APIs for crypto transactions and referral system that increased user acquisition by 25%."
+      }
+    ],
+    "cta": {
+      "title": "Interested in similar results?",
+      "buttonText": "Let's Discuss Your Project"
+    }
+  }
+}

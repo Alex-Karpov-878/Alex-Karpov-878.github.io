@@ -1,0 +1,79 @@
+{
+  "about": {
+    "hero": {
+      "title": "I'm Alex Karpov. I build the scalable, reliable software that powers business growth.",
+      "subtitle": "Senior Software Engineer & Technical Partner"
+    },
+    "bio": {
+      "title": "From Tokyo to Vancouver: A Decade of Engineering Excellence",
+      "content": "As a Vancouver-based Senior Software Engineer, I bring over a decade of experience architecting and building complex SaaS platforms. My expertise lies at the intersection of Ruby on Rails and React, but my focus is always on the business outcome.\n\nI'm not just a developer; I'm a technical partner who bridges the gap between product, engineering, and business goals. At Samsung, I owned the redesign of core, revenue-driving campaign workflows, boosting adoption and reducing support tickets. At Instacart, I didn't just integrate APIs—I built GPT-4-powered tools that slashed partner onboarding times from weeks to days.\n\nWith professional experience in both Tokyo and Canada, I thrive in international, fast-paced environments. I'm fluent in English and conversational in Japanese, allowing me to collaborate effectively with global teams. My passion is mentoring and delivering secure, event-driven architectures that truly scale."
+    },
+    "skills": {
+      "title": "My Core Toolkit",
+      "categories": [
+        {
+          "name": "Backend",
+          "technologies": ["Ruby on Rails", "REST APIs", "GraphQL", "gRPC", "Python", "Node.js", "Go", "SOLID", "DDD"]
+        },
+        {
+          "name": "Frontend",
+          "technologies": ["React", "TypeScript", "JavaScript", "Vue.js", "Angular", "HTML5/CSS3", "Tailwind CSS"]
+        },
+        {
+          "name": "Databases",
+          "technologies": ["PostgreSQL", "MySQL", "Redis", "Snowflake", "Query Optimization"]
+        },
+        {
+          "name": "DevOps & Cloud",
+          "technologies": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD (GitHub Actions, CircleCI)"]
+        },
+        {
+          "name": "Integrations",
+          "technologies": ["Okta", "SAML", "OAuth 2.0", "Webhooks", "OpenAPI/Swagger"]
+        },
+        {
+          "name": "AI/LLMs",
+          "technologies": ["GPT-4", "LLM-powered tooling and automation"]
+        }
+      ]
+    },
+    "education": {
+      "title": "Committed to Continuous Growth",
+      "content": "Technology never stands still, and neither do I. I sharpen my skills through continuous learning, including online computer science and SaaS engineering coursework from institutions like Stanford University and UC Berkeley."
+    },
+    "company": {
+      "stats": [
+        {
+          "metric": "10+",
+          "label": "Years Experience"
+        },
+        {
+          "metric": "15+",
+          "label": "Major Projects"
+        },
+        {
+          "metric": "99.9%",
+          "label": "Uptime Maintained"
+        },
+        {
+          "metric": "24/7",
+          "label": "Support Available"
+        }
+      ]
+    },
+    "cta": {
+      "buttons": [
+        {
+          "text": "View My Full Resume (PDF)",
+          "url": "#",
+          "type": "primary"
+        },
+        {
+          "text": "Connect on LinkedIn",
+          "url": "https://www.linkedin.com/in/alex1k/",
+          "type": "secondary"
+        }
+      ]
+    }
+  }
+}
