@@ -10,7 +10,6 @@ import Services from "./components/Services.vue";
 import Portfolio from "./components/Portfolio.vue";
 import Blog from "./components/Blog.vue";
 import Contact from "./components/Contact.vue";
-import Careers from "./components/Careers.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -19,7 +18,6 @@ const routes = [
   { path: "/portfolio", component: Portfolio },
   { path: "/blog", component: Blog },
   { path: "/contact", component: Contact },
-  { path: "/careers", component: Careers },
 ];
 
 const router = createRouter({

@@ -55,11 +55,6 @@
       "title": "Contact Information",
       "details": [
         {
-          "type": "email",
-          "label": "Email",
-          "value": "AlexKarpov878@gmail.com"
-        },
-        {
           "type": "linkedin",
           "label": "LinkedIn",
           "value": "linkedin.com/in/alex1k/",
